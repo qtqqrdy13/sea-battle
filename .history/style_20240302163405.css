@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+canvas{
+    background-color: #ffe3e8;
+    border:3px solid #0b0448
+}
